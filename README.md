@@ -3,4 +3,4 @@
 # Forks
 `1` - `Guilded-Skid-Group`</br>
 # Stargazers
-`1` - `SlotthCode`</br>`2` - `lewe2k6`</br>
+`1` - `SlotthCode`</br>`2` - `lewe2k6`</br>`3` - `skrvt`</br>
